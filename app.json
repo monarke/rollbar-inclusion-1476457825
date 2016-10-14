@@ -1,0 +1,1 @@
+{"name":"Rollbar inclusion","repository":"https://github.com/monarke/rollbar-inclusion-1476457825","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
